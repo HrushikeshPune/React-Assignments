@@ -28,7 +28,7 @@
     height: 200px;
 }
 
-/*----------------Min width :1024------------*/
+/*----------------Min width :1024---------------*/
 @media screen and (min-device-width:1024px) {
     .yellow .content{
         flex:1 1 auto;
