@@ -11,7 +11,7 @@ return(
   {/* Start your React code here */
   <div className="container App">
     <div className="profile-image-container">
-      <img className="profile" src={employee.profileImg} width="130" height="130" alt ="Profile image"/>
+      <img className="profile" src={employee.profileImg} width="130" height="130" alt ="Profileimage"/>
     <div className='title'>
       <h1>{employee.name}</h1>
     </div>
